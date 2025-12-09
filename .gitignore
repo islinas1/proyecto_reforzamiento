@@ -1,0 +1,23 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de aprendizaje / logs
+data/
+logs/
+*.pkl
+*.txt
+
+# Configs locales
+.env
+
+# LaTeX archivos temporales
+informe/
+
+SalinasCondoriIanEzequielRef.zip
