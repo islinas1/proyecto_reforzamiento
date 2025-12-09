@@ -1,6 +1,9 @@
 
 # 🧠 **Ratón vs Zorro – IA con Aprendizaje por Refuerzo**
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pygame](https://img.shields.io/badge/Library-Pygame-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ### *Proyecto académico de Inteligencia Artificial — SARSA / Q-Learning*
 
 ---
